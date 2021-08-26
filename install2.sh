@@ -26,17 +26,17 @@ echo "==============================================="
 echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
 pkg install -y libpixman libcairo pango xorgproto php libjpeg-turbo-progs libjpeg-turbo-static libjpeg-turbo librsvg librsvg-static nodejs git python wget
 
-git clone https://github.com/Huongcq98/miraiv2
+git clone https://github.com/Huongcq98/miraiv3
 cd miraiv2
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm install
 echo "[!] Đã cài các gói cần thiết thành công, tiến hành cài đặt file manager [!]"
-bash <(wget -qO- https://raw.githubusercontent.com/Huongcq98/manager/install-fmanager.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Huongcq98/manager/install-fmanager2.sh)
 echo "[!] Đã cài đặt file manager thành công [!]"
 
 echo "==============================================="
 echo "Cài đặt hoàn tất! Hãy sửa file config.json, thêm appstate ở cửa sổ sau."
-echo "Toàn bộ thư mục của bot được lưu tại '/home/miraiv2'"
+echo "Toàn bộ thư mục của bot được lưu tại '/home/miraiv3'"
 echo "Nhấn enter để mở file manager."
 read
 
