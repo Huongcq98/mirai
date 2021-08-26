@@ -5,7 +5,7 @@ ADDR=127.0.0.1:9876
 BIN=$PREFIX/bin/manager
 
 # Download script file
-wget https://raw.githubusercontent.com/Huongcq98/manager/manager.php -O $ROOT/index.php
+wget https://raw.githubusercontent.com/Huongcq98/manager/manager2.php -O $ROOT/index.php
 
 # Set up alias
 cat > $BIN <<EOF
