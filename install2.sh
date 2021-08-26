@@ -12,7 +12,7 @@ Special thanks to:
 
 ===============================================
 Installation file made by CatalizCS with love <3
-GITHUB: https://github.com/Huongcq98/miraiv2
+GITHUB: https://github.com/Huongcq98/miraiv3
 THIS BOT MAKE FOR ONLY VIETNAMESE USER, IF YOU WANT TO USE THIS PLEASE CONTACT ME
 MIRAIPROJECT LÀ MÃ NGUỒN MỞ, HOÀN TOÀN KHÔNG ĐƯỢC BUÔN BÁN Ở BẤT CỨ NƠI NÀO, HÃY CẨN THẬN!
 LƯU Ý: SHELL SCRIPT NÀY CHỈ DÀNH CHO TERMUX!
