@@ -12,7 +12,7 @@ Special thanks to:
 
 ===============================================
 Installation file made by CatalizCS with love <3
-GITHUB: https://github.com/CatalizCS/miraiv2
+GITHUB: https://github.com/Huongcq98/miraiv2
 THIS BOT MAKE FOR ONLY VIETNAMESE USER, IF YOU WANT TO USE THIS PLEASE CONTACT ME
 MIRAIPROJECT LÀ MÃ NGUỒN MỞ, HOÀN TOÀN KHÔNG ĐƯỢC BUÔN BÁN Ở BẤT CỨ NƠI NÀO, HÃY CẨN THẬN!
 LƯU Ý: SHELL SCRIPT NÀY CHỈ DÀNH CHO TERMUX!
@@ -26,7 +26,7 @@ echo "==============================================="
 echo "[!] Tiến hành cài đặt các gói library còn thiếu [!]"
 pkg install -y libpixman libcairo pango xorgproto php libjpeg-turbo-progs libjpeg-turbo-static libjpeg-turbo librsvg librsvg-static nodejs git python wget
 
-git clone https://github.com/miraipr0ject/miraiv2
+git clone https://github.com/Huongcq98/miraiv2
 cd miraiv2
 echo "[!] Đã tải source code thành công, tiến hành cài các gói cần thiết [!]"
 npm install
